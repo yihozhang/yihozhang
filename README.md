@@ -2,12 +2,12 @@
 
 I'm currently an undergraduate at the University of Washington, Seattle. I'm interested in programming languages and its applications in various domains, including databases and systems.
 
-**I'm looking for summer research opportunties for Summer 2021.**
+**I'm looking for summer research interns for 2021.**
 
 - Research keywords: Program Synthesis, SMT solver, Datalog, Staged Programming.
 - Language keywords: Scala, OCaml, Haskell, Rust, Julia, Coq, Java, C.
 - Interested but (currently) not on my research agenda: continuations and effects, design and implementation of type systems, advanced type theory (DT, HoTT, etc.), virtual machine.
-- Beautiful ideas in programming languages: Definitional Interpreter, Abstract Machine, Monads, Theorems for Free, CPS, Futamura projection, Homoiconicity, Logic Programming, and so on.
+- Beautiful ideas in programming languages: definitional interpreter, abstract machine, monads, theorems for free, CPS, Futamura projection, homoiconicity, logic programming, ...
 - Previous projects
   - Hatafun: Embedding the type system of Datafun (ICFP 2016) in Haskell.
   - Sdl: Staged Datalog compiler using Lightweight Modular Staging.
