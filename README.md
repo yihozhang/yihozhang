@@ -6,7 +6,7 @@ I'm currently an undergraduate at the University of Washington, Seattle. I'm int
 
 - Research keywords: Program Synthesis, SMT solver, Datalog, Staged Programming.
 - Language keywords: Scala, OCaml, Haskell, Rust, Julia, Coq, Java, C.
-- Interested but (currently) not on my research agenda: continuations and effects, design and implementation of type systems, advanced type theory (DT, HOTT, etc.), virtual machine.
+- Interested but (currently) not on my research agenda: continuations and effects, design and implementation of type systems, advanced type theory (DT, HoTT, etc.), virtual machine.
 - Beautiful ideas in programming languages: Definitional Interpreter, Abstract Machine, Monads, Theorems for Free, CPS, Futamura projection, Homoiconicity, Logic Programming, and so on.
 - Previous projects
   - Hatafun: Embedding the type system of Datafun (ICFP 2016) in Haskell.
