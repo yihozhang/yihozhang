@@ -1,6 +1,8 @@
 ### Hi there 👋
 
-I'm currently an undergraduate at the University of Washington, Seattle. I have a vision of new programming tools that apply a mixture of modern techniques from metaprogramming, superoptimization, program synthesis, type systems, and more. To get a sense of it, some of my past (and current) projects involve knowledge of staging and partial evaluation, equality saturation, programming-by-example, solver-aided programming, and dependent type theory.
+I'm currently an undergraduate at the University of Washington, Seattle. I have a vision of new programming tools that apply a mixture of modern techniques from metaprogramming, superoptimization, program synthesis, type systems, and more. Some of my past (and current) projects explore various areas like staging, equality saturation, programming-by-example, solver-aided programming, and some type theories.
+
+**I'm looking for PhD positions starting at Fall 2022. Please get in touch if you are interested!!**
 
 <!--
 - Language keywords: Scala, Julia, OCaml, Haskell, Rust, Coq, Java, C.
@@ -10,18 +12,3 @@ I'm currently an undergraduate at the University of Washington, Seattle. I have 
   - Cornelius: Killing equivalent and redundant mutants with E-graph.
   - Sager: Demonic Graph Synthesizer for Worst-Case Performance, built with Rosette.
 -->  
- 
-<!--
-**yihozhang/yihozhang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
