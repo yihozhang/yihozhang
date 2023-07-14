@@ -1,12 +1,9 @@
 ### Hi there 👋
+I am a first-year PhD student studying Computer Science at UW Seattle, co-advised by Zachary Tatlock and Dan Suciu. I am broadly interested in the theories and applications of programming languages and data management.
 
-I'm currently a PhD student at the University of Washington, Seattle. I have a vision of new programming tools that apply a mixture of modern techniques from metaprogramming, superoptimization, program synthesis, type systems, and more. Some of my past (and current) projects explore various areas like staging, equality saturation, programming-by-example, solver-aided programming, and some type theories.
+Currently, I work on a program optimization technique called Equality Saturation (EqSat):
 
-<!--
-- Language keywords: Scala, Julia, OCaml, Haskell, Rust, Coq, Java, C.
-- Previous projects
-  - Hatafun: Embedding the type system of Datafun (ICFP 2016) in Haskell.
-  - Sdl: Staged Datalog compiler using Lightweight Modular Staging.
-  - Cornelius: Killing equivalent and redundant mutants with E-graph.
-  - Sager: Demonic Graph Synthesizer for Worst-Case Performance, built with Rosette.
--->  
+* Theory: I try to answer questions like "when does EqSat terminate?".
+* System: I am working on a new system called egglog that unifies Datalog and EqSat.
+* Technique: I am interested in techniques that make EqSat better. In our POPL 2022 paper we made pattern matching in EqSat asymptotically faster.
+* Application: I am always looking to apply EqSat to emerging domains, such as computational fabrication. I am maintaining a list of projects that use equality saturation.
