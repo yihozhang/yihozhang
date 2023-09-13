@@ -1,7 +1,7 @@
 ### Hi there 👋
-I am a first-year PhD student studying Computer Science at UW Seattle, co-advised by Zachary Tatlock and Dan Suciu. I am broadly interested in the theories and applications of programming languages and data management.
+I am a second-year PhD student studying Computer Science at UW Seattle, co-advised by Zachary Tatlock and Dan Suciu. I am broadly interested in the theories and applications of programming languages and data management.
 
-Currently, I work on a program optimization technique called Equality Saturation (EqSat):
+Currently, I am working on a program optimization technique called Equality Saturation (EqSat):
 
 * Theory: I try to answer questions like "when does EqSat terminate?".
 * System: I am working on a new system called egglog that unifies Datalog and EqSat.
