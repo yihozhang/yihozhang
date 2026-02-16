@@ -1,9 +1,8 @@
 ### Hi there 👋
+
 I am a fourth-year PhD student studying Computer Science at UW Seattle, co-advised by Zachary Tatlock and Dan Suciu. I am broadly interested in the theories and applications of programming languages and data management.
 
-Currently, I am working on a program optimization technique called Equality Saturation (EqSat):
+My research centers loosely on the topic of domain-specific program optimization. This includes
 
-* Theory: I try to answer questions like "when does EqSat terminate?".
-* System: I am working on a new system called egglog that unifies Datalog and EqSat.
-* Technique: I am interested in techniques that make EqSat better. In our POPL 2022 paper we made pattern matching in EqSat asymptotically faster.
-* Application: I am always looking to apply EqSat to emerging domains, such as computational fabrication. I am maintaining a list of projects that use equality saturation.
+* building hammers: I work on [theoretical foundations](https://arxiv.org/abs/2501.02413) and [system building](https://github.com/egraphs-good/egglog) of Equality Saturation (EqSat), a technique called for domain-specific program optimization; and
+* finding nails: I apply various techniques (like EqSat) to domains such as [web automation](https://arxiv.org/abs/2311.03705), [specialized hardware](https://arxiv.org/abs/2512.02371), and [computational fabrication](https://github.com/yihozhang/szalinski/tree/cse556)
